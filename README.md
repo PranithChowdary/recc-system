@@ -1,4 +1,4 @@
-# HandM-Recommender-System
+# H&M-Recommender-System
 
 ### Author and Developer: [Pranith Chowdary](https://github.com/PranithChowdary)
 
